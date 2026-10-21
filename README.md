@@ -9,13 +9,12 @@ Features an **infinite hardware-accelerated canvas**, **OLED pitch-black dark mo
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/hub_screen.png" width="48%" alt="Ekran Główny (Hub)" />
-  <img src="docs/screenshots/canvas_screen.png" width="48%" alt="Nieskończone Płótno (OLED & Neon)" />
+  <img src="https://github.com/user-attachments/assets/f39d09bf-4f80-4928-ad6c-d353d840100f" width="48%" alt="Ekran Główny (Hub)" />
+  <img src="https://github.com/user-attachments/assets/9bb2fa6a-6b41-461e-8a4c-8cb253f5d132" width="48%" alt="Nieskończone Płótno (OLED & Neon)" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/templates_screen.png" width="48%" alt="Szablony & Tabela C x R" />
-  <img src="docs/screenshots/formulas_screen.png" width="48%" alt="Symbole & Wzory Akademickie" />
+  <img src="https://github.com/user-attachments/assets/0f90675f-0d18-4db3-aa09-8899b9917eb1" width="48%" alt="Szablony & Tabela C x R" />
 </p>
 
 ---
